@@ -1,0 +1,12 @@
+{
+  "heading": "Login to your account",
+  "phone_or_email": "Phone or Email",
+  "password": "Password",
+  "login": "Login",
+  "no_account": "Don't have an account",
+  "forget_password": "Forget Password",
+  "register_link": "Register Here",
+  "reset_link": "Reset Here",
+  "invalid_creds": "Credentials is incorrect",
+  "something_wrong": "Something went wrong !"
+}

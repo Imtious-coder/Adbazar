@@ -1,0 +1,17 @@
+{
+  "heading": "নতুন একাউন্ট তৈরি করুন",
+  "your_name": "আপনার নাম",
+  "phone_number": "ফোন নম্বর",
+  "email_if_any": "ইমেইল (যদি থাকে)",
+  "email_placeholder": "ইমেইল",
+  "password": "পাসওয়ার্ড",
+  "show_password": "পাসওয়ার্ড দেখান",
+  "register_link": "রেজিস্টার",
+  "have_account": "আপনার কি একটি অ্যাকাউন্ট আছে ?",
+  "invalid_phone": "ফোন নম্বর সঠিক নয়",
+  "invalid_email": "ইমেইল সঠিক নয়",
+  "login": "লগইন",
+  "success_msg": "সফল হয়েছে ! আপনি এখন লগইন করতে পারেন।",
+  "email_taken": "ইমেইলটি ব্যবহার হয়ে গেছে",
+  "phone_number_taken": "ফোন নম্বরটি ব্যবহার হয়ে গেছে"
+}

@@ -1,0 +1,17 @@
+{
+  "heading": "Create a new account",
+  "your_name": "Your Name",
+  "phone_number": "Phone Number",
+  "email_if_any": "Email (If Any)",
+  "email_placeholder": "Email",
+  "password": "Password",
+  "show_password": "Show Password",
+  "register_link": "Register",
+  "have_account": "Already have an account ?",
+  "invalid_phone": "Invalid Phone Number",
+  "invalid_email": "Email is invalid",
+  "login": "Login",
+  "success_msg": "Success ! You can login now.",
+  "email_taken": "Email Already Taken",
+  "phone_number_taken": "Phone Number Already Registered"
+}

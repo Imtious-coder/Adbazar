@@ -1,0 +1,12 @@
+{
+  "heading": "আপনার একাউন্ট এ লগইন করুন",
+  "phone_or_email": "ফোন অথবা ইমেইল",
+  "password": "পাসওয়ার্ড",
+  "login": "লগইন",
+  "no_account": "কোনো একাউন্ট নেই",
+  "forget_password": "পাসওয়ার্ড ভুলে গেছেন",
+  "register_link": "রেজিস্টার করুন",
+  "reset_link": "উদ্ধার করুন",
+  "invalid_creds": "আপনার তথ্য সঠিক নয়",
+  "something_wrong": "কিছু ভুল হয়েছে"
+}
